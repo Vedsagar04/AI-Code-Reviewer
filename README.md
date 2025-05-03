@@ -1,4 +1,4 @@
-# Job Portal App with MERN Stack
+# AI Code Reviewer
 
 A full-stack web application that leverages AI to provide automated code reviews. Designed to assist developers in improving code quality with intelligent suggestions and feedback.
 
